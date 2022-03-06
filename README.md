@@ -1,4 +1,6 @@
-# data_modeling_with_postgresql
+# Data_modeling_with_postgresql
+![image](https://user-images.githubusercontent.com/99410373/156909224-8d94540f-4c4a-4a98-9918-536494c365ab.png)
+
 ## Prerequisites
 - Knowledge about Python and SQL
 - This project requires Postgresql database, so please make sure to install Postgresql program (including psql and pgAdmin 4)
