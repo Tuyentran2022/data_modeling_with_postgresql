@@ -74,7 +74,7 @@ CREATE DATABASE _<new_database>_;
 1. ```sql_queries.py ```: contain all sql queries
 2. ```create_tables.py```: Drops and creates the tables. Running this file resets the tables before each time to run the ETL scripts (```etl.py```).
 3. ```etl.py```: Reads and processes files from song_data and log_data and upload them into the tables
-4. ```Data_exploaration_logic.py```: This python script shows the logic of ETL process (step by step)
+4. ```Data_exploration_logic.py```: This python script shows the logic of ETL process (step by step)
 ### Development environment 
 This project is developed in **Pycharm**, use the corresponding Python version (Python v.3.9.7 64-bit). We can use ```python --version``` to check your current python version. This is important for installing suitable packages.
 - Install some packages for this project:
